@@ -1,11 +1,11 @@
 {
-	"name": "construct.component",
+	"name": "construct.dynamic",
 	"version": "0.0.0",
-	"description": "Construct: Component",
+	"description": "Construct: Dynamic",
 	"license": "MIT",
 	"main": "index.html",
 	"keywords": [
-		"construct", "three", "webgl", "web-components"
+		"dynamic", "construct", "three", "webgl", "web-components"
 	],
 	"ignore": [
 		"**/.*",

@@ -1,3 +1,3 @@
-lessc -x assets/less/construct.component.less assets/css/construct.component.css
+lessc -x assets/less/construct.dynamic.less assets/css/construct.dynamic.css
 
-uglifyjs assets/js/construct.component.js -o assets/js/construct.component-min.js -m
+uglifyjs assets/js/construct.dynamic.js -o assets/js/construct.dynamic-min.js -m
